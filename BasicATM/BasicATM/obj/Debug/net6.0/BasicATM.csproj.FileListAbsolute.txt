@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\bin\Debug\net6.0\BasicATM.exe
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\bin\Debug\net6.0\BasicATM.deps.json
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\bin\Debug\net6.0\BasicATM.runtimeconfig.json
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\bin\Debug\net6.0\BasicATM.dll
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\bin\Debug\net6.0\BasicATM.pdb
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.dll
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\refint\BasicATM.dll
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.pdb
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\BasicATM.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\BasicATM\BasicATM\obj\Debug\net6.0\ref\BasicATM.dll
